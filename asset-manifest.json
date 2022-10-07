@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notary/static/css/main.6ac17a13.css",
+    "main.js": "/Notary/static/js/main.bc5fed7a.js",
+    "static/js/787.944f9e2c.chunk.js": "/Notary/static/js/787.944f9e2c.chunk.js",
+    "index.html": "/Notary/index.html",
+    "main.6ac17a13.css.map": "/Notary/static/css/main.6ac17a13.css.map",
+    "main.bc5fed7a.js.map": "/Notary/static/js/main.bc5fed7a.js.map",
+    "787.944f9e2c.chunk.js.map": "/Notary/static/js/787.944f9e2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac17a13.css",
+    "static/js/main.bc5fed7a.js"
+  ]
+}
